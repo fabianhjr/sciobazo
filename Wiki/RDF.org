@@ -1,0 +1,11 @@
+* Resource Description Framework (Rimeda Preskribo Kadro)
+** Konceptoj Versio 1.0
+:PROPERTIES:
+:ROAM_REFS: https://www.w3.org/TR/rdf-concepts/
+:END:
+** Konceptoj Versio 1.1
+:PROPERTIES:
+:ROAM_REFS: https://www.w3.org/TR/rdf11-concepts/
+:END:
+** Generalo
+W3C-normo por kodi semantikon
