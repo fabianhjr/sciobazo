@@ -1,0 +1,19 @@
+#+TITLE: ForrestKnight
+* Bedaŭroj kiel Studento pri Komputado
+:PROPERTIES:
+:ROAM_REFS: https://www.youtube.com/watch?v=xa6me8wou_k
+:END:
+** Li ne faris hejmtasko (2:06)
+** Li ne konsultis viajn profesorojn (5:53)
+* Kialoj mi programas en Linukso
+:PROPERTIES:
+:ROAM_REFS: https://www.youtube.com/watch?v=HrYtwz0Xe2Q
+:END:
+** Privateco (0:35)
+** Fidindeco (3:05)
+** Sekureco (3:55)
+*** [[file:Leĝo de Linus.org][Leĝo de Linus]]
+** Malmultaj Postuloj (4:42)
+** Libera (4:52)
+** Komunumo (6:08)
+** Agordigebla (6:40)
