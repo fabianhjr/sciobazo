@@ -1,0 +1,4 @@
+#+TITLE: Emacs
+
+* Generalo
+Tekstoredaktilo en LISP
